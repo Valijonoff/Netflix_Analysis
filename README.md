@@ -16,5 +16,11 @@ This project analyzes the Netflix dataset using Python, Pandas, Matplotlib, and 
 ## Dataset:
 Source: [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
+## Vizualizatsiyalar
+
+### Top janr va rejissyorlar grafikasi
+
+![Top Genres and Directors](images/combined_graphs.png)
+
 ## Author:
 [Javohir Valijonov](https://github.com/Valijonoff)
