@@ -36,11 +36,10 @@ The dataset was taken from Kaggle and analyzed using Python in Google Colab.
 ## 🗂 Folder Structure
 ```bash
 Netflix-EDA/
-├── Netflix_EDA.ipynb
+├── Netflix_Data_Analysis.ipynb
 ├── README.md
 └── images/
-├── top_genres.png
-└── top_directors.png
+    └── combined_graphs.png
 ```
 
 ## 🔚 Conclusion
