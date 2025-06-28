@@ -30,8 +30,7 @@ The dataset was taken from Kaggle and analyzed using Python in Google Colab.
 
 ## 📊 Example Visualizations
 
-![Top Genres](images/top_genres.png)  
-![Top Directors](images/top_directors.png)
+![Images](images/combined_graphs.png)
 
 ## 🗂 Folder Structure
 ```bash
